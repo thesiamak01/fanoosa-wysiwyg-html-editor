@@ -2,7 +2,7 @@
 
 A lightweight, RTL-supported WYSIWYG HTML editor with Persian (Farsi) and English language support.
 
-![Editor Screenshot]()
+![Editor Screenshot](https://raw.githubusercontent.com/thesiamak01/fanoosa-wysiwyg-html-editor/refs/heads/main/cover.png)
 
 ## Features
 
